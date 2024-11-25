@@ -1,2 +1,0 @@
-Explicação do cofigo: Essencialmente, o código coleta informações do usuário, realiza cálculos com base nessas informações, e imprime os resultados de forma organizada. 
-Como executar: Você pode utilizar um ambiente de programação Python, como:Jupyter Notebook: Se você já tem o Jupyter instalado, basta criar um novo notebook e colar o código em uma célula.Google Colab: Acesse Google Colab, crie um novo notebook e cole o código em uma célula.Eu indico o Goole Colab se caso voce for um iniciante assim como eu 
